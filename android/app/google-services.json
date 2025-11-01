@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39865834332",
+    "project_id": "legallywise-dddbd",
+    "storage_bucket": "legallywise-dddbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39865834332:android:cd581e2102c0e73165ff99",
+        "android_client_info": {
+          "package_name": "com.legallywise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDJsrS8dqIjHRmyvplyxjmab6OF7J4DCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
