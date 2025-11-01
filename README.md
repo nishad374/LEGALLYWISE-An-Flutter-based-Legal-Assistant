@@ -29,7 +29,7 @@ Platform	Android, iOS, Web
 Follow these steps to run the app locally:
 
 # 1️⃣ Clone the repository
-git clone https://github.com/Priya2310-debug/LEGALLYWISE-An-Flutter-based-Legal-Assistant.git
+git clone https://github.com/nishad374/LEGALLYWISE-An-Flutter-based-Legal-Assistant.git
 
 # 2️⃣ Navigate to the project directory
 cd LegallyWise
